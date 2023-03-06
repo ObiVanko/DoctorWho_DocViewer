@@ -1,0 +1,17 @@
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.View.ViewForm.resources
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.GenerateResource.cache
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+E:\SUAI\Semester4\PT\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+E:\SUAI\Semester4\PT\Lab1\obj\Debug\netcoreapp3.1\Lab1.Properties.Resources.resources
